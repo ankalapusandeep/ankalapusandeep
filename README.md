@@ -1,122 +1,62 @@
-<h1 align="center">Hey 👋, I'm Sandeep Ankalapu</h1>
-<h3 align="center">🚀 Frontend Developer | React Enthusiast | MERN Stack Learner from India 🇮🇳</h3>
+<h1 align="center">Hi 👋, I'm Sandeep Ankalapu</h1>
+<h3 align="center">Frontend Developer | React Developer | MERN Stack Learner 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=4000&color=00F7FF&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+Developer;MERN+Stack+Learner;Building+Premium+UI+Projects;Always+Learning+New+Technologies" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ankalapusandeep&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=ankalapusandeep&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+### 👨‍💻 About Me
 
-## 👨‍💻 About Me
-
-- 💻 Passionate Frontend Developer specialized in **React.js**
-- 🚀 Currently building **MERN Stack Applications**
-- 🎨 Love designing **Premium Modern UI/UX**
-- 📚 Exploring Backend Development & APIs
-- ⚡ Fast Learner & Open Source Enthusiast
-- 🎯 Goal: Become a Professional Full Stack Developer
+- 💻 Frontend Developer passionate about React.js
+- 🚀 Building modern MERN Stack projects
+- 📚 Currently learning Backend & APIs
+- ⚡ Love creating premium UI designs
+- 🎯 Goal: Become Full Stack Developer
 
 ---
 
-## 🌐 Connect With Me
+### 🌐 Connect With Me
 
 <p align="left">
 <a href="https://linkedin.com/in/ankalapusandeep" target="blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="50" />
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
 
 <a href="mailto:ankalapusandeep17@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="50" />
-</a>
-
-<a href="https://github.com/ankalapusandeep">
-<img src="https://skillicons.dev/icons?i=github" height="50" />
+<img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
 </a>
 </p>
 
 ---
 
-# 🚀 Tech Stack
+### 🚀 Languages and Tools
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,redux,git,github,vscode,tailwind,bootstrap,firebase,figma" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,git,github,vscode,tailwind,bootstrap" />
 </p>
 
 ---
 
-# 🏆 Featured Projects
-
-### 🎬 bOOk-Picturr
-> BookMyShow inspired movie ticket booking UI
-
-### 🍔 FoodExpress
-> MERN Food Delivery App with Admin Panel
-
-### 🛒 NexCart
-> Modern E-Commerce Website using React.js
-
-### 📈 Trading Website
-> Premium Trading & Finance UI Website
-
----
-
-# 📊 GitHub Analytics
+### 📊 GitHub Stats
 
 <p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ankalapusandeep&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=ankalapusandeep&show_icons=true&theme=tokyonight" />
+</p>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ankalapusandeep&theme=tokyonight&hide_border=true" />
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ankalapusandeep&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ankalapusandeep&theme=tokyo-night" />
 </p>
 
 ---
 
-# 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ankalapusandeep&theme=react-dark&hide_border=true&area=true" />
-</p>
-
----
-
-# 🐍 Contribution Snake
+### 🐍 Contribution Snake
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/ankalapusandeep/ankalapusandeep/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-# 🧠 Currently Learning
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,nextjs" />
-</p>
-
----
-
-# ⚡ Fun Fact
-
-```javascript
-const sandeep = {
-  code: ["JavaScript", "React", "Node.js"],
-  askMeAbout: ["frontend", "react", "ui/ux"],
-  technologies: {
-    frontEnd: ["React", "Redux", "Tailwind CSS"],
-    backEnd: ["Node.js", "Express"],
-    database: ["MongoDB", "MySQL"]
-  },
-  currentFocus: "Building Premium Web Applications 🚀"
-};
-```
-
----
-
-<p align="center">
-✨ "Code. Learn. Build. Repeat." ✨
 </p>
