@@ -84,10 +84,30 @@
 
 ---
 
-# 🐍 Contribution Snake
+# 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/ankalapusandeep/ankalapusandeep/output/github-contribution-grid-snake.svg" />
+<img src="https://github-profile-trophy.vercel.app/?username=ankalapusandeep&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
+
+---
+
+# 💻 Coding Vibes
+
+<p align="center">
+<img width="400" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+</p>
+
+---
+
+# ⚡ Tech Badges
+
+<p align="center">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/>
 </p>
 
 ---
