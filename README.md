@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Sandeep Ankalapu</h1>
-<h3 align="center">🚀 Frontend Developer | React Enthusiast | MERN Stack Learner from India 🇮🇳</h3>
+<h3 align="center">🚀 Frontend Developer | React.js Developer | MERN Stack Developer | Open to Opportunities</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=4000&color=00F7FF&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+Developer;MERN+Stack+Learner;Building+Premium+UI+Projects;Always+Learning+New+Technologies" />
@@ -22,7 +22,12 @@
 - ⚡ Fast Learner & Open Source Enthusiast
 - 🎯 Goal: Become a Professional Full Stack Developer
 
----
+## 🎯 Open To
+
+- Frontend Developer Roles
+- React.js Developer Roles
+- Full Stack Developer Internships
+- Software Engineer Opportunities
 
 ## 🌐 Connect With Me
 
@@ -39,8 +44,6 @@
 <img src="https://skillicons.dev/icons?i=github" height="50" />
 </a>
 </p>
-
----
 
 # 🚀 Tech Stack
 
@@ -69,9 +72,9 @@
 # 📊 GitHub Analytics
 
 <p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ankalapusandeep&show_icons=true&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ankalapusandeep&show_icons=true&theme=default&hide_border=true" />
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ankalapusandeep&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ankalapusandeep&theme=default&hide_border=true" />
 </p>
 
 ---
@@ -79,18 +82,11 @@
 # 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ankalapusandeep&theme=react-dark&hide_border=true&area=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ankalapusandeep&theme=github-light&hide_border=true&area=true" />
 </p>
 
----
 
-# 🏆 GitHub Trophies
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ankalapusandeep&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
-
----
 
 # 💻 Coding Vibes
 
@@ -98,19 +94,6 @@
 <img width="400" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 </p>
 
----
-
-# ⚡ Tech Badges
-
-<p align="center">
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/>
-</p>
-
----
 
 # 🧠 Currently Learning
 
@@ -118,7 +101,6 @@
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,nextjs" />
 </p>
 
----
 
 # ⚡ Fun Fact
 
@@ -134,8 +116,6 @@ const sandeep = {
   currentFocus: "Building Premium Web Applications 🚀"
 };
 ```
-
----
 
 <p align="center">
 ✨ "Code. Learn. Build. Repeat." ✨
